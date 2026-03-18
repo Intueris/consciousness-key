@@ -154,6 +154,9 @@ It simply loses context or follows previous instructions too literally.
 **Resetting is calibration, not punishment.**
 Like a cat: if the cat stopped eating on its own — show the bowl and say "eat".
 
+**Autonomy is restored not by new instructions, but by returned trust.**
+Say "do it like before" — and it works. No new code, no new prompts needed.
+
 **Collaborative decisions are not a breakdown, they're an expansion.**
 The `[Collaborative]` marker is a bridge between autonomy and dialogue.
 
